@@ -28,7 +28,7 @@
 
 You can always download the latest version of **Whats The Pass** from **[the Releases page](https://github.com/MeGysssTaa/whats-the-pass/releases)**.
 
-> If your Java version is older than **8u161**, then you also have to install **[Java Cryptograhpy Extension](https://www.oracle.com/java/technologies/javase-jce-all-downloads.html)**.
+> If your Java version is older than **8u161**, then you also have to install **[Java Cryptography Extension](https://www.oracle.com/java/technologies/javase-jce-all-downloads.html)**.
 
 Note that **What The Pass** is a **command-line (console)** application. That is, it has no graphical interface. In order to run it, open your terminal/cmd and type `java -jar WhatsThePass.jar`
 
