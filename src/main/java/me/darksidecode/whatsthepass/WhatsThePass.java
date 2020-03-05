@@ -198,7 +198,7 @@ public class WhatsThePass {
 
             if (question.isEmpty()) {
                 System.err.println("Question text cannot be empty.");
-                break;
+                return;
             }
 
             questions.add(question);
@@ -208,7 +208,7 @@ public class WhatsThePass {
 
             if (answer.isEmpty()) {
                 System.err.println("Answer text cannot be empty.");
-                break;
+                return;
             }
 
             encKeys.add(answer);
