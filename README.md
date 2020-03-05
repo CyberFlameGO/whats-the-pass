@@ -34,7 +34,7 @@ Note that **What The Pass** is a **command-line (console)** application. That is
 
 That's it!
 
-![https://blob.sx/0uLe]()
+![](https://blob.sx/YSPr)
 
 
 # Creating a recovery file
@@ -49,7 +49,7 @@ Then you will be asked to type **extra** comments. Those comments will be shown 
  
 Finally, you will be asked how would you like to name your recovery file. It is adviced that you give it a meaningful name so that you can easily find it later. After that a file with the specified name will be created in the folder where `WhatsThePass.jar` is, with extension `.wtp.json`. **That is your recovery file!**
 
-![https://blob.sx/ye6P]()
+![](https://blob.sx/ye6P)
 
 # Restoring data using recovery file
 
@@ -63,7 +63,7 @@ If you've written an extra comment during recovery file creation in the past, th
 
 If you answer everything correctly, your data will be decrypted and displayed. Congratulations!
 
-![https://blob.sx/ehln]()
+![](https://blob.sx/ehln)
 
 
 # Under the hood
